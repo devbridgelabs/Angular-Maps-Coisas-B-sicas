@@ -1,0 +1,16 @@
+* {
+    color: rgb(0, 0, 0);
+}
+
+agm-map {
+    height: 500px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.container {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
